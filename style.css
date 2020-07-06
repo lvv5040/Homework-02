@@ -54,6 +54,6 @@ header{
     display: none;
 }
 
-.navbar-toggler.menu-open .fa-bars{
-    display: none;
+.navbar-toggler.menu-open .fa-times{
+    display: block;
 }
