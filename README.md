@@ -109,12 +109,13 @@ We would like you to have well over 200 commits by graduation, so commit early a
 Submission on BCS
 You are required to submit the following:
 
-
-The URLs of the deployed applications
-
+Screenshot of page:
+ 
+https://github.com/lvv5040/Homework-02/issues/1#issue-687629902
 
 The URLs of the GitHub repositories
 
-
+https://lvv5040.github.io/Homework-02/
+https://github.com/lvv5040/Homework-02.git
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
